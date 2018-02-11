@@ -11,8 +11,8 @@ from PIL import Image, ImageTk, ImageOps
 #Global Variables
 root = Tk()
 gmaps_url_partial = "https://www.googleapis.com/geolocation/v1/geolocate?key="
-gmaps_key = "AIzaSyBMvIrD-VjSdROdoJ-E1EtAhq8prM-tE2U"
-sg_api_key = "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"
+gmaps_key = "<API Key>"
+sg_api_key = "<API Key>"
 sg = sendgrid.SendGridAPIClient(apikey=sg_api_key)
 jsonFlickrApi = lambda x: x
 
