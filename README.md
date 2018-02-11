@@ -8,3 +8,4 @@ The Cardy graphic user interface was programmed using Tkinter, the Python Tk gra
 Here are some pictures of the GUI and final email produced by using the program.
 
 
+<img src="cardyemail" width="600">
