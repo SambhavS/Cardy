@@ -12,4 +12,5 @@ Here are some pictures of the GUI and an example postcard created with Cardy.
 
 
 *Example Postcard*
-<img src="cardyemail.png" width="300">
+
+<img src="cardyemail.png" width="450">
