@@ -7,13 +7,13 @@ The Cardy graphic user interface was programmed using Tkinter, the Python Tk gra
 
 Here are some pictures of the GUI and an example postcard created with Cardy.
 
-*User Interface*
+## User Interface
 
 
 <img src="cardyGUI.png" width="1200">
 
 
-*Example Postcard*
+## Example Postcard
 
 
 <img src="cardyemail.png" width="500">
