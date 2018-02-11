@@ -5,9 +5,11 @@ It uses your location (gotten from the Google Maps API) to find nearby scenic im
 
 The Cardy graphic user interface was programmed using Tkinter, the Python Tk graphics package. It runs like a desktop app rather than like a web app.
 
-Here are some pictures of the GUI and final email produced by using the program.
+Here are some pictures of the GUI and an example postcard created with Cardy.
 
-<img src="cardyGUI.png" width="600">
+*User Interface*
+<img src="cardyGUI.png" width="1000">
 
 
-<img src="cardyemail.png" width="600">
+*Example Postcard*
+<img src="cardyemail.png" width="300">
